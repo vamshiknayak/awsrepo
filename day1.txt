@@ -1,0 +1,2 @@
+day 1 is all abut git cmnd:wq
+
